@@ -1,0 +1,12 @@
+https://open.spotify.com/artist/7xDEsNpkGIBp0UnHTqnfr6
+
+spotify:artist:
+
+
+7xDEsNpkGIBp0UnHTqnfr6
+
+
+curl -X GET "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF"
+
+
+curl -X GET "https://api.spotify.com/v1/artists/7xDEsNpkGIBp0UnHTqnfr6"
