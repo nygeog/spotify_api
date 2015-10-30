@@ -1,8 +1,12 @@
+OauthToken
+BQD-cjqbd8D3rXcZfeL6RctfjxHLYg658cPVzR86zn5WKi2-3gwpT_elcZ7mN2H0iuWzF0aJ4ucARue_onLRu7tpTE1_dqRDbgs8g--FEa5NBLDpFYqplmQx7qLOe10yfpSymjU-0eWdKPrW6-MHDAianGJawjCZOgE7wT8-uelFp9EPZqAi6foR7veFhRf3nVvOYBrIw6TBja_DOcJ5BzKzGsKx6hXCPswM_X9q50RtDDIDFvinF1m6JnehJHRG08dJMb3EZ05_G32F5Gu_ivRx_0BBLI5IIMICfd9xNA
+
+
 https://open.spotify.com/artist/7xDEsNpkGIBp0UnHTqnfr6
 
 spotify:artist:
 
-
+PilotSuits
 7xDEsNpkGIBp0UnHTqnfr6
 
 
@@ -10,3 +14,9 @@ curl -X GET "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF"
 
 
 curl -X GET "https://api.spotify.com/v1/artists/7xDEsNpkGIBp0UnHTqnfr6"
+
+MattConnoer
+spotify:user:mateodevt
+
+Fran
+spotify:user:frandukes
